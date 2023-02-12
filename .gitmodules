@@ -1,6 +1,8 @@
 [submodule "lab2/Exercise2-1-ros-container"]
 	path = lab2/Exercise2-1-ros-container
 	url = https://github.com/CMPUT412-Exercise2-Leen-Tianming/Exercise2-1-ros-container.git
+	branch = part2
 [submodule "lab2/BagAnalyzer"]
 	path = lab2/BagAnalyzer
 	url = https://github.com/CMPUT412-Exercise2-Leen-Tianming/BagAnalyzer.git
+	branch = main
