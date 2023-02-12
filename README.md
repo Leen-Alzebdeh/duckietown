@@ -2,6 +2,7 @@
 All the code for CMPUT 412  - Robotics
 
 
-<h2> Contributors  <h2>
-Leen Alzebdeh
-Tianming Han
+## Contributors  
+Lab 1: Leen Alzebdeh
+
+Lab 2 & 3: Leen Alzebdeh  & Tianming Han
