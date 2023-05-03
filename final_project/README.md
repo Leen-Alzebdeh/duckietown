@@ -1,10 +1,10 @@
-### AUTONOMOUS DRIVING AND PARKING IN DUCKIETOWN
+## AUTONOMOUS DRIVING AND PARKING IN DUCKIETOWN
 
-### Author: Leen Alzebdeh, Tural Bakhtiyarli and Tianming Han
+Author: Leen Alzebdeh, Tural Bakhtiyarli and Tianming Han
 
-### The ObjectDetection repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -R csc229XX". The Pj412 repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX".
+The ObjectDetection repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -R csc229XX". The Pj412 repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX".
 
-### Link to lab report: [https://leen-alzebdeh.github.io/projects/412_Final_Project/](https://leen-alzebdeh.github.io/projects/412_Final_Project/)
+Link to lab report: [https://leen-alzebdeh.github.io/projects/412_Final_Project/](https://leen-alzebdeh.github.io/projects/412_Final_Project/)
 
 ## Objective
 
