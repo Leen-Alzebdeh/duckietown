@@ -1,0 +1,10 @@
+<launch>
+  <arg name="veh"/>
+  <arg name="map_file" default="hub"/>
+  <node pkg="tf2_ros" type="static_transform_publisher" name="odometry_link" args="0 0 0 0 0 0 1 odometry $(arg veh)/footprint" />
+  <group ns="$(arg veh)">
+    <node pkg="lane_following" type="lane_following_node.py" name="lane_following" output="screen">
+    </node>
+  </group>
+
+</launch>

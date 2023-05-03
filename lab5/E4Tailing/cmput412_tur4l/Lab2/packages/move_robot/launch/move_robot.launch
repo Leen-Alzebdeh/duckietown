@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="move_robot" type="odometry.py" name="odometry" output="screen"/>
+    <node pkg="move_robot" type="drive.py" name="drive" output="screen"/>
+</launch>

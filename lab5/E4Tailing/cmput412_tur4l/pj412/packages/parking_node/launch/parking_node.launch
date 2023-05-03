@@ -1,0 +1,10 @@
+<launch>
+  <arg name="veh"/>
+  <arg name="map_file" default="hub"/>
+  <group ns="$(arg veh)">
+    <node pkg="parking_node" type="parking_node.py" name="parking_node" output="screen">
+      <param name="parking_slot" value = "1" />
+    </node>
+  </group>
+
+</launch>

@@ -1,0 +1,13 @@
+<package>
+  <name>parking_node</name>
+  <version>0.1.0</version>
+  <description>
+  This package is used to do part3 for the Final Project .
+  </description>
+  <maintainer email="alzebdeh@ualberta.ca">Leen Alzebdeh</maintainer>
+  <maintainer email="tural@ualberta.ca">Tural</maintainer>
+  <maintainer email="tianming@ualberta.ca">Tianming Han</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

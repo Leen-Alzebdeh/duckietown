@@ -1,0 +1,13 @@
+<package>
+  <name>ml_node</name>
+  <version>0.1.0</version>
+  <description>
+  This package is used to do stuffs for the exercise CRA1 .
+  </description>
+  <maintainer email="alzebdeh@ualberta.ca">Leen Alzebdeh</maintainer>
+  <maintainer email="tural@ualberta.ca">Tural</maintainer>
+  <maintainer email="tianming@ualberta.ca">Tianming Han</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

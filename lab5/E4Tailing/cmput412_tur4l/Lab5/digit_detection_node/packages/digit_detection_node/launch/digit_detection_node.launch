@@ -1,0 +1,9 @@
+<launch>
+  <arg name="veh"/>
+  <arg name="map_file" default="hub"/>
+  <group ns="$(arg veh)">
+    <node pkg="digit_detection_node" type="digit_detection_node.py" name="digit_detection_node" output="screen">
+    </node>
+  </group>
+
+</launch>
