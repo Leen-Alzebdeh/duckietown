@@ -15,12 +15,6 @@
 [submodule "E4Tailing"]
 	path = E4Tailing
 	url = https://github.com/CMPUT412-Friday-Lab-Team/E4Tailing.git
-[submodule "E5ML"]
-	path = E5ML
-	url = https://github.com/CMPUT412-Friday-Lab-Team/E5ML.git
-[submodule "cmput412_tur4l"]
-	path = cmput412_tur4l
-	url = https://github.com/Tur4L/cmput412_tur4l.git
 [submodule "final_project/Pj412"]
 	path = final_project/Pj412
 	url = https://github.com/CMPUT412-Friday-Lab-Team/Pj412.git
