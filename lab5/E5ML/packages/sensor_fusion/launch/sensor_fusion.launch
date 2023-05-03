@@ -1,0 +1,21 @@
+<launch>
+    <arg name="veh" doc="Name of vehicle. ex: megaman"/>
+    <arg name="pkg_name" value="sensor_fusion"/>
+    <arg name="node_name" default="sensor_fusion"/>
+    <node pkg="tf2_ros" type="static_transform_publisher" name="bot_l" args="0.17 0.17 0.085  2.356194 0 -1.570796 world at_fixed_200" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="bot_r" args="1.65 0.17 0.085 -2.356194 0 -1.570796 world at_fixed_201" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="top_r" args="1.65 2.84 0.085 -0.785398 0 -1.570796 world at_fixed_94" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="top_l" args="0.17 2.84 0.085  0.785398 0 -1.570796 world at_fixed_93" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="r_mid_N" args="1.75 1.252 0.085  0 0 -1.570596 world at_fixed_153" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="r_mid_S" args="1.253 1.755 0.085  3.141594 0 -1.570596 world at_fixed_133" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="l_mid_N" args="0.574 1.259 0.085  0 0 -1.570596 world at_fixed_58" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="l_mid_S" args="0.075 1.755 0.085  3.141593 0 -1.570596 world at_fixed_62" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="l_stop" args="0.574 1.755 0.085 1.570596 0 -1.570596 world at_fixed_169" />
+    <node pkg="tf2_ros" type="static_transform_publisher" name="r_stop" args="1.253 1.253 0.085 -1.570596 0 -1.570596 world at_fixed_162" />
+
+    <group ns="$(arg veh)">
+        <node name="$(arg node_name)" pkg="$(arg pkg_name)" type="$(arg node_name).py" output="screen" required="true">
+            <param name="veh" value="$(arg veh)" />
+        </node>
+    </group>
+</launch>
