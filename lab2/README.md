@@ -1,4 +1,4 @@
-### ROBOT KINEMATICS USING ROS
+## ROBOT KINEMATICS USING ROS
 
 ### Author: Leen Alzebdeh and Tianming Han
 
