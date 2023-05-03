@@ -1,10 +1,10 @@
-### DUCKIEBOT TAILING BEHAVIOUR
+## DUCKIEBOT TAILING BEHAVIOUR
 
-### Author: Leen Alzebdeh and Tianming Han
+Author: Leen Alzebdeh and Tianming Han
 
-### The E4Tailing repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX"
+The E4Tailing repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX"
 
-### Link to lab report: [https://leen-alzebdeh.github.io/projects/412_Lab4/](https://leen-alzebdeh.github.io/projects/412_Lab4/)
+Link to lab report: [https://leen-alzebdeh.github.io/projects/412_Lab4/](https://leen-alzebdeh.github.io/projects/412_Lab4/)
 
 ## Objective
 
