@@ -21,9 +21,9 @@
 [submodule "cmput412_tur4l"]
 	path = cmput412_tur4l
 	url = https://github.com/Tur4L/cmput412_tur4l.git
-[submodule "ObjectDetection"]
-	path = ObjectDetection
-	url = https://github.com/CMPUT412-Friday-Lab-Team/ObjectDetection.git
 [submodule "final_project/Pj412"]
 	path = final_project/Pj412
 	url = https://github.com/CMPUT412-Friday-Lab-Team/Pj412.git
+[submodule "final_project/ObjectDetection"]
+	path = final_project/ObjectDetection
+	url = https://github.com/CMPUT412-Friday-Lab-Team/ObjectDetection.git
