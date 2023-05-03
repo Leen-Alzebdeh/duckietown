@@ -1,10 +1,10 @@
-### ROBOT KINEMATICS USING ROS
+## ROBOT KINEMATICS USING ROS
 
-### Author: Leen Alzebdeh and Tianming Han
+Author: Leen Alzebdeh and Tianming Han
 
-### The Exercise2-1-ros-container repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX"
+The Exercise2-1-ros-container repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX"
 
-### Link to lab report: [https://leen-alzebdeh.github.io/projects/412_Lab2/](https://leen-alzebdeh.github.io/projects/412_Lab2/)
+Link to lab report: [https://leen-alzebdeh.github.io/projects/412_Lab2/](https://leen-alzebdeh.github.io/projects/412_Lab2/)
 
 ## Objective
 
