@@ -6,3 +6,9 @@
 	path = lab2/BagAnalyzer
 	url = https://github.com/CMPUT412-Exercise2-Leen-Tianming/BagAnalyzer.git
 	branch = main
+[submodule "lab3/AdvancedARExercise"]
+	path = lab3/AdvancedARExercise
+	url = https://github.com/CMPUT412-Friday-Lab-Team/AdvancedARExercise.git
+[submodule "lab3/E3P3Transform"]
+	path = lab3/E3P3Transform
+	url = https://github.com/KarlHanEdn/E3P3Transform.git
