@@ -21,3 +21,9 @@
 [submodule "final_project/ObjectDetection"]
 	path = final_project/ObjectDetection
 	url = https://github.com/CMPUT412-Friday-Lab-Team/ObjectDetection.git
+[submodule "lab5/E5ML"]
+	path = lab5/E5ML
+	url = https://github.com/CMPUT412-Friday-Lab-Team/E5ML.git
+[submodule "lab5/cmput412_tur4l"]
+	path = lab5/cmput412_tur4l
+	url = https://github.com/Tur4L/cmput412_tur4l.git
