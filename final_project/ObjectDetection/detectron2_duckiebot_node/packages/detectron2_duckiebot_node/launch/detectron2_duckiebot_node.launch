@@ -1,0 +1,9 @@
+<launch>
+  <arg name="veh"/>
+  <arg name="map_file" default="hub"/>
+  <group ns="$(arg veh)">
+    <node pkg="detectron2_duckiebot_node" type="detectron2_duckiebot_node.py" name="detectron2_duckiebot_node" output="screen">
+    </node>
+  </group>
+
+</launch>
