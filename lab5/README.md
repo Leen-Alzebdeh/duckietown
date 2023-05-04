@@ -1,6 +1,6 @@
 ## DIGIT DETECTION WITH MACHINE LEARNING
 
-Author: Leen Alzebdeh, Tural Bakhtiyarli and Tianming Han
+Authors: Leen Alzebdeh, Tural Bakhtiyarli and Tianming Han
 
 The cmput412_tur4l repo's Lab5 digit_detection_node can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -R csc229XX". The E5ML repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX".
 
