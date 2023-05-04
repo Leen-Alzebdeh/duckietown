@@ -13,6 +13,6 @@ The reports for all the labs can be found **[here](https://leen-alzebdeh.github.
 
 More details can be found in each directory's README
 
-## Contributors
+## Contributors/ Lab Partners
 
 Leen Alzebdeh, Tural Bakhtiyarli and Tianming Han
