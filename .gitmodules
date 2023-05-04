@@ -12,9 +12,6 @@
 [submodule "lab3/E3P3Transform"]
 	path = lab3/E3P3Transform
 	url = https://github.com/KarlHanEdn/E3P3Transform.git
-[submodule "E4Tailing"]
-	path = E4Tailing
-	url = https://github.com/CMPUT412-Friday-Lab-Team/E4Tailing.git
 [submodule "final_project/Pj412"]
 	path = final_project/Pj412
 	url = https://github.com/CMPUT412-Friday-Lab-Team/Pj412.git
@@ -27,3 +24,6 @@
 [submodule "lab5/cmput412_tur4l"]
 	path = lab5/cmput412_tur4l
 	url = https://github.com/Tur4L/cmput412_tur4l.git
+[submodule "lab4/E4Tailing"]
+	path = lab4/E4Tailing
+	url = https://github.com/CMPUT412-Friday-Lab-Team/E4Tailing.git
