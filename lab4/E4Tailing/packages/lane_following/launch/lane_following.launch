@@ -1,9 +1,0 @@
-<launch>
-  <arg name="veh"/>
-  <arg name="map_file" default="hub"/>
-  <group ns="$(arg veh)">
-    <node pkg="lane_following" type="node.py" name="lane_following" output="screen">
-    </node>
-  </group>
-
-</launch>
