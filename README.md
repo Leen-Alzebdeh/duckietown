@@ -15,4 +15,4 @@ More details can be found in each directory's README
 
 ## Contributors/ Lab Partners
 
-Leen Alzebdeh, Tural Bakhtiyarli @Tur4L and Tianming Han @KarlHanEdn
+Leen Alzebdeh, Tural Bakhtiyarli [@Tur4L](https://github.com/Tur4L) and Tianming Han [@KarlHanEdn](https://github.com/KarlHanEd)
