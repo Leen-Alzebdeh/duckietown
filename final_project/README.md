@@ -1,6 +1,6 @@
 ## AUTONOMOUS DRIVING AND PARKING IN DUCKIETOWN
 
-Author: Leen Alzebdeh, Tural Bakhtiyarli and Tianming Han
+Authors: Leen Alzebdeh, Tural Bakhtiyarli and Tianming Han
 
 The ObjectDetection repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -R csc229XX". The Pj412 repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX".
 
