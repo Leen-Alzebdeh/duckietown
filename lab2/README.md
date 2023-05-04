@@ -1,6 +1,6 @@
 ## ROBOT KINEMATICS USING ROS
 
-Author: Leen Alzebdeh and Tianming Han
+Authors: Leen Alzebdeh and Tianming Han
 
 The Exercise2-1-ros-container repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX"
 
