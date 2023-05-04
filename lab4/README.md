@@ -1,6 +1,6 @@
 ## DUCKIEBOT TAILING BEHAVIOUR
 
-Author: Leen Alzebdeh and Tianming Han
+Authors: Leen Alzebdeh and Tianming Han
 
 The E4Tailing repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX"
 
