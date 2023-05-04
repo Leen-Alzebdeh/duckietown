@@ -5,7 +5,7 @@ The reports for all the labs can be found **[here](https://leen-alzebdeh.github.
 
 ## Summary of Labs
 
-- [Lab 2](https://github.com/Leen-Alzebdeh/duckietown/tree/main/lab2): Robot Kinematics using Robot Operating Service (ROS)
+- [Lab 2](https://github.com/Leen-Alzebdeh/duckietown/tree/main/lab2): Robot Kinematics using Robot Operating System (ROS)
 - [Lab 3](https://github.com/Leen-Alzebdeh/duckietown/tree/main/lab3): Computer Vision for Robotics
 - [Lab 4](https://github.com/Leen-Alzebdeh/duckietown/tree/main/lab4): Duckiebot Tailing Behaviour
 - [Lab 5](https://github.com/Leen-Alzebdeh/duckietown/tree/main/lab5): Digit Detection with Machine Learning
