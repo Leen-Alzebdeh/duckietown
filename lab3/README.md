@@ -1,4 +1,4 @@
-### COMPUTER VISION FOR ROBOTICS
+## COMPUTER VISION FOR ROBOTICS
 
 Authors: Leen Alzebdeh and Tianming Han
 
