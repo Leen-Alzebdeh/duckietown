@@ -4,7 +4,7 @@ Authors: Leen Alzebdeh, Tural Bakhtiyarli and Tianming Han
 
 The ObjectDetection repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -R csc229XX". The Pj412 repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX".
 
-Link to lab report: [https://leen-alzebdeh.github.io/projects/412_Final_Project/](https://leen-alzebdeh.github.io/projects/412_Final_Project/)
+Link to lab report: [https://leen-alzebdeh.github.io/projects/412_final_project/](https://leen-alzebdeh.github.io/projects/412_final_project/)
 
 ## Objective
 
