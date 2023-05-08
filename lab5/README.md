@@ -4,7 +4,7 @@ Authors: Leen Alzebdeh, Tural Bakhtiyarli and Tianming Han
 
 The cmput412_tur4l repo's Lab5 digit_detection_node can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -R csc229XX". The E5ML repo can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX".
 
-Link to lab report: [https://leen-alzebdeh.github.io/projects/412_Lab5/](https://leen-alzebdeh.github.io/projects/412_Lab5/)
+Link to lab report: [https://leen-alzebdeh.github.io/projects/412_lab5/](https://leen-alzebdeh.github.io/projects/412_lab5/)
 
 ## Objective
 
