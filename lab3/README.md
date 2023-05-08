@@ -4,7 +4,7 @@ Authors: Leen Alzebdeh and Tianming Han
 
 Lane following could be run from E3P3Transform repo's lane following package, AprilTag detection could be run from AdvancedARExercise repo, localization using sensor fusion could be run from E3P3Transform. All can be built with "dts devel build -f -H csc229XX" and run with "dts devel run -H csc229XX"
 
-Link to lab report: [https://leen-alzebdeh.github.io/projects/412_Lab3/](https://leen-alzebdeh.github.io/projects/412_Lab3/)
+Link to lab report: [https://leen-alzebdeh.github.io/projects/412_lab3/](https://leen-alzebdeh.github.io/projects/412_lab3/)
 
 ## Objective
 
