@@ -1,6 +1,6 @@
 # duckietown
 
-All the code for CMPUT 412 - Experimental Mobile Robotics, Winter 2023. \
+All the code for Experimental Mobile Robotics. \
 The reports for all the labs can be found **[here](https://leen-alzebdeh.github.io/projects/)**.
 
 ## Summary of Labs
